@@ -37,7 +37,7 @@ The goal was to improve efficiency, reduce costs, and support data-driven decisi
 ---
 
 ## 📄 Project Report
-👉 [View Full PDF Report](Coffee Shop Analysis.pdf)
+👉 [View Full PDF Report](https://github.com/AanchalVerma41/caffeine-calculations-business-analytics/blob/main/Coffee%20Shop%20Analysis.pdf)
 
 ---
 
